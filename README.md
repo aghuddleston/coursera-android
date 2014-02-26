@@ -12,4 +12,4 @@ Source Code for Android Course Example Applications
 * Fragments
 
 ### Week 4 Lab
-* UI Lab
+* [UI Lab] (https://github.com/aghuddleston/coursera-android/tree/master/UILab)
