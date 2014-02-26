@@ -1,0 +1,11 @@
+gen/
+
+# Intellij files
+*.iml
+*.ipr
+*.iws
+
+# Eclipse project files
+*.classpath
+*.project
+*.cfg
